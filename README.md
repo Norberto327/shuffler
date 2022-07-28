@@ -11,7 +11,7 @@ WARNING:
 
 For the program to work, it MUST be placed in a directory with 2 folders in it and nothing else.
 Otherwise it will not work. The program may be modified to only read two folders with predetermined
-names by changing mainDir (line 26) to a list with the names of the folders.
+names by changing mainDir (line 37) to a list with the names of the folders.
 In any case, the script must be located in the same directory as the target folders.
 
 
